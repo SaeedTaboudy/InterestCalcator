@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="github.com" />
+  <component name="PublishConfigData" serverName="github.com">
+    <serverData>
+      <paths name="github.com">
+        <serverdata>
+          <mappings>
+            <mapping deploy="https://github.com/SaeedTaboudy/DotinSchool.git" local="$PROJECT_DIR$" web="https://github.com/SaeedTaboudy/DotinSchool.git" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
 </project>
 
