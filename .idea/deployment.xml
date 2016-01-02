@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="Git" uploadOnCheckin="30f45e52-e36b-48ad-9e12-4a86a6899bbd">
+  <component name="PublishConfigData" serverName="Git" uploadOnCheckin="722cadab-6236-4c03-8aaa-4cdae2d093a8">
     <serverData>
       <paths name="Git">
         <serverdata>
           <mappings>
-            <mapping deploy="https://github.com/SaeedTaboudy/InterestComputing.git" local="$PROJECT_DIR$" web="https://github.com/SaeedTaboudy/InterestComputing.git" />
+            <mapping deploy="https://github.com/SaeedTaboudy/InterestComputing.git" local="$PROJECT_DIR$" web="" />
           </mappings>
         </serverdata>
       </paths>
     </serverData>
-    <option name="myUploadOnCheckinName" value="github.com" />
+    <option name="myUploadOnCheckinName" value="Git" />
   </component>
 </project>
 
